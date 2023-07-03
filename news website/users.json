@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "udhaya@gmail.com",
+      "password": "udhaya"
+    },
+    {
+      "id": 2,
+      "email": "adam@gmail.com",
+      "password": "adam"
+    },
+    {
+      "id": 3,
+      "email": "yorichi@gmail.com",
+      "password": "yorichi"
+    },
+    {
+      "id": 4,
+      "email": "yokesh@gmail.com",
+      "password": "yokesh"
+    },
+    {
+      "id": 5,
+      "email": "abc@email.com",
+      "password": "123"
+    },
+    {
+      "id": 6,
+      "email": "def@email.com",
+      "password": "456"
+    },
+    {
+      "FullName": "roheeth",
+      "UserName": "roheeth",
+      "contactNumber": "9876543210",
+      "email": "roheeth@gmail.com",
+      "password": "Pass@123",
+      "id": 7
+    },
+    {
+      "FullName": "roheeth",
+      "UserName": "roheeth",
+      "contactNumber": "9876543210",
+      "email": "roheeth1@gmail.com",
+      "password": "Nass@123",
+      "id": 8
+    },
+    {
+      "FullName": "roheeth",
+      "UserName": "roheeth",
+      "contactNumber": "9876543210",
+      "email": "roheeth2@gmail.com",
+      "password": "Kass@123",
+      "id": 9
+    },
+    {
+      "FullName": "yeswanth",
+      "UserName": "yeswanth",
+      "contactNumber": "9876543210",
+      "email": "yeswanth1@gmail.com",
+      "password": "Pass@123",
+      "id": 10
+    },
+    {
+      "FullName": "yeswanth",
+      "UserName": "yeswanth",
+      "contactNumber": "9876543210",
+      "email": "yeswanth3@gmail.com",
+      "password": "Pass@1234",
+      "id": 11
+    },
+    {
+      "FullName": "roheeth",
+      "UserName": "roheeth",
+      "contactNumber": "9876543210",
+      "email": "yeswanth6@gmail.com",
+      "password": "Pass@123",
+      "id": 12
+    }
+  ]
+}
